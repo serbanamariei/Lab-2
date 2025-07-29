@@ -41,5 +41,4 @@ clang file.o -Wall -o output  # Link object file into executable
 
 If math.h is used (e.g for sqrt), link with:
 
-```bash
 clang file.o -lm -o output
