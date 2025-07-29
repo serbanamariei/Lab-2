@@ -1,2 +1,2 @@
 # Lab-2
-Basic elements of C programming language. Variables and errors.
+Fundamentals of C programming language: Variables and Error Handling
