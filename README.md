@@ -39,7 +39,7 @@ To compile and link C programs, use:
 clang -Wall -c file.c         # Compile to object file
 clang file.o -Wall -o output  # Link object file into executable
 
-If math.h is used (e.g for sqrt), linl with:
+If math.h is used (e.g for sqrt), link with:
 
 ```bash
 clang file.o -lm -o output
